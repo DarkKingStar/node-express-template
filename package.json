@@ -2,11 +2,11 @@
   "name": "expresstemplete",
   "version": "1.0.0",
   "description": "basic express template to kick-start",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon app.js",
-    "start": "node app.js"
+    "dev": "nodemon .",
+    "start": "node ."
   },
   "keywords": [
     "express",
