@@ -1,4 +1,4 @@
-# Node.js Express.js Template
+<h1 align="center">Node.js Express.js Template<h1>
 
 <p align="center">
     <a href="https://expressjs.com/" target="blank"><img src="./public/logo.png" width="200" alt="Nest Logo" /></a>
