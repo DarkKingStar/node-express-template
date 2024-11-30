@@ -1,13 +1,8 @@
 # Node.js Express.js Template
 
-----
-<img
-    src="./public/logo.png"
-    alt="Logo"
-    style="display: block; margin: 0 auto; text-align: center;"
-    width="400"
-    height="200"
-/>
+<p align="center">
+    <a href="https://expressjs.com/" target="blank"><img src="https://expressjs.com/images/favicon.png" width="200" alt="Nest Logo" /></a>
+  </p>
 ---
 
 This is a boilerplate template for building a Node.js application using the Express.js framework. It includes configurations for common middleware, routing, and error handling and is ready to be used as a starting point for your own projects.
