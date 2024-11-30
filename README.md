@@ -4,8 +4,8 @@
 <img
     src="./public/logo.png"
     alt="Logo"
-    style="display: block; margin: 0 auto;"
-    width="200"
+    style="display: block; margin: 0 auto; text-align: center;"
+    width="400"
     height="200"
 />
 ---
