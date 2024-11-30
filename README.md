@@ -11,13 +11,19 @@ This is a boilerplate template for building a Node.js application using the Expr
 
 ## Features
 
-- **Express.js**: Minimalist web framework for Node.js.
-- **Cookie Session**: Secure cookie-based session handling.
-- **Helmet**: Enhances app security with HTTP headers.
-- **Morgan**: HTTP request logger middleware.
-- **CORS**: Cross-Origin Resource Sharing setup.
+- **Cluster**: Spawns multiple processes of the app to take advantage of multi-core systems.
 - **Compression**: Response compression to improve performance.
+- **Cookie Parser**: Parses HTTP request cookies.
+- **Cookie Session**: Secure cookie-based session handling.
+- **CORS**: Cross-Origin Resource Sharing setup.
+- **Environment Variables**: Loads environment variables from a `.env` file.
+- **Express.js**: Minimalist web framework for Node.js.
+- **Helmet**: Enhances app security with HTTP headers.
+- **HTTP Request Logger**: Logs HTTP requests with Morgan.
+- **Joi**: Schema validation for JSON data.
+- **JSON Web Tokens**: Generates and verifies JSON Web Tokens.
 - **Passport**: Authentication middleware for Node.js.
+- **Pino**: Fast and lightweight logger for Node.js.
 - **Static Files**: Serves files from the `public` directory.
 - **Error Handling**: Centralized error-handling mechanism.
 
