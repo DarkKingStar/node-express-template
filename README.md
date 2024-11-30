@@ -1,7 +1,7 @@
 # Node.js Express.js Template
 
 <p align="center">
-    <a href="https://expressjs.com/" target="blank"><img src="https://expressjs.com/images/favicon.png" width="200" alt="Nest Logo" /></a>
+    <a href="https://expressjs.com/" target="blank"><img src="./public/logo.png" width="200" alt="Nest Logo" /></a>
   </p>
 ---
 
